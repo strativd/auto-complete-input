@@ -1,5 +1,6 @@
 {
-  "name": "auto-complete-input-with-cache",
+  "name": "auto-complete-input",
+  "description": "A simple auto complete input with cached results",
   "private": true,
   "version": "0.0.0",
   "type": "module",
